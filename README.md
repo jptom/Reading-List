@@ -5,3 +5,4 @@
 - [high performance python](https://github.com/mynameisfiber/high_performance_python)
 - [Effective Python](https://github.com/bslatkin/effectivepython)
 - [Fluent Python](https://github.com/fluentpython/example-code-2e)
+- [Python Machine Learning Book 3rd](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
